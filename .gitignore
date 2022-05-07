@@ -1,21 +1,3 @@
-# LaTeX
-**/*.cls-meta.xml
-**/*.aux
-**/*.bbl
-**/*.blg
-**/*.fdb_latexmk
-**/*.fls
-**/*.lof
-**/*.log
-**/*.lot
-**/*.out
-**/*.synctex.gz
-**/*.toc
-
-# JabRef
-**/*.bib.bak
-**/*.bib.sav
-
 # PyCharm
 .idea
 .run
