@@ -1,0 +1,33 @@
+# LaTeX
+**/*.cls-meta.xml
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.fdb_latexmk
+**/*.fls
+**/*.lof
+**/*.log
+**/*.lot
+**/*.out
+**/*.synctex.gz
+**/*.toc
+
+# JabRef
+**/*.bib.bak
+**/*.bib.sav
+
+# PyCharm
+.idea
+.run
+
+# Python artifacts
+src/__pycache__/
+
+# Built TORCS source
+/src/gym_torqs/
+
+# MacOS artifacts
+.DS_Store
+
+# Unnamed simulation output
+results/untitled*/*.*
